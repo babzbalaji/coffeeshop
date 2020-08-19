@@ -1,0 +1,208 @@
+html
+{
+	scroll-behavior: smooth;
+}
+.modal-content
+{
+	background-color: #f8edeb;
+}
+.section1
+{
+	background-color: #f8edeb;
+}
+.nav-link
+{
+	font-family: 'Righteous', cursive;
+	font-size: 18px;
+	color: #A0644A!important;
+}
+.navbar 
+{
+	background-color: #f8edeb;
+}
+.pad
+{
+	margin-left: 35px;
+}
+.navbar-brand
+{
+	font-family: 'Righteous', cursive;
+	color: #A0644A!important;
+}
+.navbar i
+{
+	padding-right: 10px;
+	color: #A0644A!important;
+	font-size: 40px;
+}
+.sign 
+{
+	border-radius: 8%;
+	background-color: #A0644A;
+	margin-left: 0px!important;
+}
+.sign a
+{
+	color: white!important;
+	margin-left:  10px;
+	margin-right: 10px;
+}
+.sec1-text h1
+{
+	font-family: 'Josefin Sans', sans-serif;
+	margin-top: 200px!important;
+	font-size: 51px;
+	margin-bottom: 60px;
+}
+span
+{
+	color: #A0644A;
+}
+.sec1-button a
+{
+	font-family: 'Josefin Sans', sans-serif;
+	text-decoration: none;
+	font-size: 20px;
+	color: white;
+	background-color: #A0644A;
+	border-radius: 30px;
+	padding: 20px;
+	box-shadow: 13px 14px 49px -16px rgba(160, 100, 74);
+}
+.sec1-button:hover
+{
+	-moz-transform: translate(0px, -6px);
+	-webkit-transform: translate(0px, -6px);
+	-o-transform: translate(0px, -6px);
+	-ms-transform: translate(0px, -6px);
+	transform: translate(0px, -6px);
+	transition: .5s;
+}
+.section2
+{
+	background-color: #f8edeb
+}
+.sec1-button
+{
+	width: 150px;
+}
+.sec2-img
+{
+	margin-bottom: 50px;
+	margin-top: 80px;
+}
+.coffee
+{
+	margin-top: -100px;
+	margin-left: 100px;	
+	width: 700px;
+}
+.section3
+{
+	background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),  url("images/coffeeshop.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+.sec3-heading
+{
+	margin-top: 80px;
+}
+.sec3-heading h1
+{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 50px;
+	color: #fff;
+	font-weight: 800;
+}
+.cards
+{
+	margin-top: 40px;
+}
+.card
+{
+	margin-bottom: 30px;
+	border: 0px;
+	-webkit-box-shadow: 13px 24px 64px -29px rgba(160,100,74,0.33);
+	-moz-box-shadow: 13px 24px 64px -29px rgba(160,100,74,0.33);
+	box-shadow: 13px 24px 64px -29px rgba(160,100,74,0.33);
+	font-family: 'Josefin Sans', sans-serif;
+	background-color: ;
+	border-radius: 10px;
+}
+.card:hover
+{
+	-moz-transform: translate(0px, -11px);
+	-webkit-transform: translate(0px, -11px);
+	-o-transform: translate(0px, -11px);
+	-ms-transform: translate(0px, -11px);
+	transform: translate(0px, -11px);
+	transition: .4s;
+	cursor: pointer;
+}
+.card img
+{
+	padding: 10px;
+	height: 180px;
+	border-radius: 10px;
+}
+.card h5
+{
+	font-size: 28px;
+	color: #A0644A;
+	font-weight: 800;	
+}
+.card a
+{
+	border: 0px!important;
+	background-color: #A0644A!important;
+}
+.btn:focus,.btn:active,.btn:focus
+ {
+   outline: none !important;
+   box-shadow: none!important;
+}
+.price
+{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 25px;
+	float: right;
+	color: green;	
+}
+.section4
+{
+	
+	background-attachment: fixed;
+	background-size: cover;
+}
+.sec4-heading
+{
+	margin-top: 80px;
+}
+.sec4-heading h1
+{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 50px;
+	color: #A0644A;
+	font-weight: 800;
+}
+.section5
+{
+	background-color: #000000;
+	color: #ffff;
+}
+.contact-h4
+{
+	color: #a0644a;
+}
+.section5 a
+{
+	display: inline-block;
+	margin-top: 10px;
+	font-size: 20px;
+	margin-right: 10px;
+	color: white;
+}
+.section5 h4
+{
+	color: #a0644a;
+}
